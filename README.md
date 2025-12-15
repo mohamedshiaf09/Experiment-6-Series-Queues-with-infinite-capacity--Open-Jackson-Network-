@@ -2,7 +2,7 @@
 # Aim: 
 To find
 
-	a)Average number of materials in the system  
+	a)Average number of materials in the system   
   
 	b) Average number of materials in the each conveyor 
   
